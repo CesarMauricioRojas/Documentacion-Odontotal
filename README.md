@@ -84,6 +84,8 @@ Este proyecto fue un esfuerzo colaborativo grupal, en el que se llevaron a cabo 
 
 <img src="odontotal-diagram.png" alt="DER" width="800" height="800">
 
-**Infraestructura**
+<br/>
+
+**Infraestructura:**
 
 <img src="network-diagram.png" alt="AWS" width="790" height="380">
