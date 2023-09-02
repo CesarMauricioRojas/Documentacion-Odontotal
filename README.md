@@ -2,11 +2,14 @@
 
 Enlace aplicación:  <br/>
 - **Usuario Administrador**<br/>
-correo: admin@gmail.com, contraseña: 12345
+correo: admin@gmail.com<br/>
+contraseña: 12345
 - **Usuario Odontólogo**<br/>
-correo: odontologo@gmail.com, contraseña: 12345
+correo: odontologo@gmail.com<br/>
+contraseña: 12345
 - **Usuario Paciente**<br/>
-correo: paciente@gmail.com, contraseña: 12345
+correo: paciente@gmail.com<br/>
+contraseña: 12345
 <br/>
 
 - **Nombre del proyecto:** **_odontotal_**
@@ -124,7 +127,7 @@ $ npm run dev
 
 - Estructura y diagramas
 
-<img src="network-diagram.png" alt="AWS" width="760" height="480">
+<img src="network-diagram.png" alt="AWS" width="760" height="380">
 
 **Testing**
 
