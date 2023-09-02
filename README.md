@@ -126,7 +126,7 @@ $ npm run dev
 
 - Estructura y diagramas
 
-<img src="network-diagram.png" alt="AWS" width="760" height="380">
+<img src="network-diagram.png" alt="AWS" width="790" height="380">
 
 **Testing**
 
