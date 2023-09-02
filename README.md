@@ -8,7 +8,6 @@ correo: odontologo@gmail.com, contraseña: 12345
 - **Usuario Paciente**<br/>
 correo: paciente@gmail.com, contraseña: 12345
 <br/>
----
 
 - **Nombre del proyecto:** **_odontotal_**
 - **Resumen general del proyecto:** En los últimos meses se desarrolló Odontotal, esta aplicación ofrece los servicios de una clínica odontológica. Con Odontotal, los usuarios pueden agendar citas con diversos especialistas, según su horario de preferencia, una vez que se han registrado en la plataforma. Además, la aplicación cuenta con funcionalidades de gestión tanto para un administrador como para los odontólogos, quienes pueden acceder a la aplicación y utilizar sus recursos para llevar a cabo un seguimiento médico de sus pacientes. <br>
@@ -29,7 +28,7 @@ Este proyecto fue un esfuerzo colaborativo grupal, en el que se llevaron a cabo 
 **Desarrollo del proyecto:**
 
 - Entornos de desarrollo integrados (IDEs): IntelliJ IDEA Community y Visual Studio Code.
-- Sistemas de control de versiones: Git (GitLab).
+- Sistemas de control de versiones: Git (GitHub - GitLab).
 - Simulación / Virtualización: Utilización de una cuenta en Amazon Web Services (AWS).
 
 **Tecnologías utilizadas para el desarrollo del sitio:**
@@ -42,7 +41,7 @@ Este proyecto fue un esfuerzo colaborativo grupal, en el que se llevaron a cabo 
     - react-multi-carousel (carrusel imágenes)
     - react-router-dom (rutas)
   - CSS
-  - emailjs (envío correos)
+  - emailjs (envio correos)
   - fontawesome (iconos)
   - google maps
   - Sass
@@ -53,6 +52,7 @@ Este proyecto fue un esfuerzo colaborativo grupal, en el que se llevaron a cabo 
   - Java
     - Spring
     - Spring Boot
+    - Spring Boot Mail
     - Spring Security
     - API Rest
     - Servicios de AWS (S3)
@@ -102,8 +102,8 @@ Este proyecto fue un esfuerzo colaborativo grupal, en el que se llevaron a cabo 
 **Backend:**
 
 - Poner credenciales del username y password de MySQL WorkBench en el application.properties
-- Ejecutar el proyecto de Intellij.
-- Usar http://localhost:8080 para probar las API's que están documentadas en las secciones de testing en la Wiki del proyecto.
+- Ejecutar el proyecto de Intellij
+- Usar http://localhost:8080 para usar las API's
 
 **Frontend:**
 
@@ -124,8 +124,8 @@ $ npm run dev
 
 - Estructura y diagramas
 
-<img src="Diagrama_Redes_Equipo_7.png" alt="AWS" width="680" height="380">
+<img src="network-diagram.png" alt="AWS" width="760" height="480">
 
 **Testing**
 
-- Pruebas realizadas en Postman.
+- Pruebas de API's en Postman.
