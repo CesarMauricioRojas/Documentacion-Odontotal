@@ -1,6 +1,6 @@
 ## Odontotal
 
-Enlace aplicación: http://odontotal.online/ <br/>
+**Enlace aplicación:** http://odontotal.online/ <br/>
 - **Usuario Administrador**<br/>
 correo: admin@gmail.com<br/>
 contraseña: 12345
@@ -95,7 +95,7 @@ Este proyecto fue un esfuerzo colaborativo grupal, en el que se llevaron a cabo 
 **Base de datos:**
 
   - Abrir MySQL WorkBench y ejecutar el siguiente script para creación del esquema de datos y tablas
-  - Script para crear el esquema: schema_odontototal.sql
+  - Script para crear el esquema: schema-odontototal.sql
 
 - Estructura y diagrama<br>
 
@@ -105,7 +105,7 @@ Este proyecto fue un esfuerzo colaborativo grupal, en el que se llevaron a cabo 
 
 - Poner credenciales del username y password de MySQL WorkBench en el application.properties
 - Ejecutar el proyecto de Intellij
-- Usar http://localhost:8080 para usar las API's
+- Usar http://localhost:8080 para manipular las API's
 
 **Frontend:**
 
