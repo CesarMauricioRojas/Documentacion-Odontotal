@@ -12,7 +12,7 @@ correo: paciente@gmail.com<br/>
 contraseña: 12345
 <br/>
 
-- **Nombre del proyecto:** **_odontotal_**
+- **Nombre del proyecto:** **_Odontotal_**
 - **Resumen general del proyecto:** En los últimos meses se desarrolló Odontotal, esta aplicación ofrece los servicios de una clínica odontológica. Con Odontotal, los usuarios pueden agendar citas con diversos especialistas, según su horario de preferencia, una vez que se han registrado en la plataforma. Además, la aplicación cuenta con funcionalidades de gestión tanto para un administrador como para los odontólogos, quienes pueden acceder a la aplicación y utilizar sus recursos para llevar a cabo un seguimiento médico de sus pacientes. <br>
 Este proyecto fue un esfuerzo colaborativo grupal, en el que se llevaron a cabo múltiples tareas, tales como el desarrollo de un sólido backend, la creación de un atractivo frontend, la administración de la base de datos, la implementación de despliegues en la plataforma AWS y la adopción de metodologías ágiles como Scrum y Kanban.
 
@@ -94,9 +94,8 @@ Este proyecto fue un esfuerzo colaborativo grupal, en el que se llevaron a cabo 
 
 **Base de datos:**
 
-  - Abrir MySQL WorkBench y ejecutar los siguientes scripts para creación del esquema e inserción de datos en tablas
+  - Abrir MySQL WorkBench y ejecutar el siguiente script para creación del esquema de datos y tablas
   - Script para crear el esquema: schema_odontototal.sql
-  - Script para inserción de datos: insert_odontotal.sql
 
 - Estructura y diagrama<br>
 
