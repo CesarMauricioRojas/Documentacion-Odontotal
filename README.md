@@ -78,56 +78,12 @@ Este proyecto fue un esfuerzo colaborativo grupal, en el que se llevaron a cabo 
 - **Testing**
   - Postman
 
-## Documentación técnica del proyecto
-
-### **Ambiente de desarrollo**
-
-**Instrucciones para armar el ambiente de desarrollo para un nuevo integrante**
-
-- Instalación de los IDEs: IntelliJ IDEA y Visual Studio Code.
-- Instalación de MySQL Workbench
-- Instalación de Postman
-- Instalación de Git
-- Clonar el repositorio
-- Ir a la carpeta 'Clinica-Odontotal'
-- Abrir la carpeta 'Odontotal/Odontotal' en IntelliJ y la carpeta 'Odontotal-React' en Visual Studio Code.
+## Diagramas
 
 **Base de datos:**
 
-  - Abrir MySQL WorkBench y ejecutar el siguiente script para creación del esquema de datos y tablas
-  - Script para crear el esquema: schema-odontototal.sql
-
-- Estructura y diagrama<br>
-
 <img src="odontotal-diagram.png" alt="DER" width="800" height="800">
-
-**Backend:**
-
-- Poner credenciales del username y password de MySQL WorkBench en el application.properties
-- Ejecutar el proyecto de Intellij
-- Usar http://localhost:8080 para manipular las API's
-
-**Frontend:**
-
- - Abrir una terminal en Visual Studio code que esté ubicada en la carpeta de Frontend
- - Ejecutar los siguientes comandos
-
-```
-$ npm install
-```
-
-```
-$ npm run dev
-```
-
-- Se ejecutará el proyecto del frontend en http://localhost:5173
 
 **Infraestructura**
 
-- Estructura y diagramas
-
 <img src="network-diagram.png" alt="AWS" width="790" height="380">
-
-**Testing**
-
-- Pruebas de API's en Postman.
